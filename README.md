@@ -1,5 +1,7 @@
 ## Projeto LabEddit
 
+- Um fórum semelhante ao Reddit
+
 - Feito em ReactJS, Axios, Styled-Components e Bootstrap Consumindo a API do Labeditt.
 
 Link Para Visualizar:
